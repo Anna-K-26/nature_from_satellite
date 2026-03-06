@@ -1,0 +1,15 @@
+# Лишние Python скрипты
+1.py
+2.py
+3.py
+4.py
+sklearn_example.py
+*.bin
+
+# Стандартные исключения
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.env
